@@ -1,3 +1,246 @@
 [submodule "coc.nvim"]
 	path = coc.nvim
 	url = ./coc.nvim
+[submodule "vim-ripgrep"]
+	path = vim-ripgrep
+	url = ./vim-ripgrep
+[submodule "omnisharp-vim"]
+	path = omnisharp-vim
+	url = ./omnisharp-vim
+[submodule "vim-yaml-folds"]
+	path = vim-yaml-folds
+	url = ./vim-yaml-folds
+[submodule "vim-ctrlp-tjump"]
+	path = vim-ctrlp-tjump
+	url = ./vim-ctrlp-tjump
+[submodule "LanguageClient-neovim"]
+	path = LanguageClient-neovim
+	url = ./LanguageClient-neovim
+[submodule "nvim-code-action-menu"]
+	path = nvim-code-action-menu
+	url = ./nvim-code-action-menu
+[submodule "vim-floaterm"]
+	path = vim-floaterm
+	url = ./vim-floaterm
+[submodule "nvim-treesitter-refactor"]
+	path = nvim-treesitter-refactor
+	url = ./nvim-treesitter-refactor
+[submodule "vimux"]
+	path = vimux
+	url = ./vimux
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = ./YouCompleteMe
+[submodule "vim-qf-preview"]
+	path = vim-qf-preview
+	url = ./vim-qf-preview
+[submodule "vim-projectroot"]
+	path = vim-projectroot
+	url = ./vim-projectroot
+[submodule "nerdtree-git-plugin"]
+	path = nerdtree-git-plugin
+	url = ./nerdtree-git-plugin
+[submodule "quickpeek.vim"]
+	path = quickpeek.vim
+	url = ./quickpeek.vim
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = ./vim-airline-themes
+[submodule "elly.vim"]
+	path = elly.vim
+	url = ./elly.vim
+[submodule "vim-clap"]
+	path = vim-clap
+	url = ./vim-clap
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = ./vim-bundler
+[submodule "nerdtree-file-filter-plugin"]
+	path = nerdtree-file-filter-plugin
+	url = ./nerdtree-file-filter-plugin
+[submodule "Vundle.vim"]
+	path = Vundle.vim
+	url = ./Vundle.vim
+[submodule "navigator.lua"]
+	path = navigator.lua
+	url = ./navigator.lua
+[submodule "nvim-yarp"]
+	path = nvim-yarp
+	url = ./nvim-yarp
+[submodule "vim-surround"]
+	path = vim-surround
+	url = ./vim-surround
+[submodule "vim-codeclimate"]
+	path = vim-codeclimate
+	url = ./vim-codeclimate
+[submodule "vim-airline"]
+	path = vim-airline
+	url = ./vim-airline
+[submodule "vim-emoji"]
+	path = vim-emoji
+	url = ./vim-emoji
+[submodule "vim-endwise"]
+	path = vim-endwise
+	url = ./vim-endwise
+[submodule "vim-zoom"]
+	path = vim-zoom
+	url = ./vim-zoom
+[submodule "vim-bookmarks"]
+	path = vim-bookmarks
+	url = ./vim-bookmarks
+[submodule "nvim-lspconfig"]
+	path = nvim-lspconfig
+	url = ./nvim-lspconfig
+[submodule "tagbar"]
+	path = tagbar
+	url = ./tagbar
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = ./vim-gitgutter
+[submodule "deoplete.nvim"]
+	path = deoplete.nvim
+	url = ./deoplete.nvim
+[submodule "vim-hug-neovim-rpc"]
+	path = vim-hug-neovim-rpc
+	url = ./vim-hug-neovim-rpc
+[submodule "genutils"]
+	path = genutils
+	url = ./genutils
+[submodule "ale"]
+	path = ale
+	url = ./ale
+[submodule "fzf.vim"]
+	path = fzf.vim
+	url = ./fzf.vim
+[submodule "ferret"]
+	path = ferret
+	url = ./ferret
+[submodule "vim-rhubarb"]
+	path = vim-rhubarb
+	url = ./vim-rhubarb
+[submodule "anyfold"]
+	path = anyfold
+	url = ./anyfold
+[submodule "vim-ctrlspace"]
+	path = vim-ctrlspace
+	url = ./vim-ctrlspace
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = ./vim-ruby
+[submodule "nvim-lightbulb"]
+	path = nvim-lightbulb
+	url = ./nvim-lightbulb
+[submodule "vim-gutentags"]
+	path = vim-gutentags
+	url = ./vim-gutentags
+[submodule "vim-misc"]
+	path = vim-misc
+	url = ./vim-misc
+[submodule "vim-side-search"]
+	path = vim-side-search
+	url = ./vim-side-search
+[submodule "vim-easytags"]
+	path = vim-easytags
+	url = ./vim-easytags
+[submodule "vimspector"]
+	path = vimspector
+	url = ./vimspector
+[submodule "codi.vim"]
+	path = codi.vim
+	url = ./codi.vim
+[submodule "gundo.vim"]
+	path = gundo.vim
+	url = ./gundo.vim
+[submodule "coq_nvim"]
+	path = coq_nvim
+	url = ./coq_nvim
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = ./vim-fugitive
+[submodule "vim-rails"]
+	path = vim-rails
+	url = ./vim-rails
+[submodule "unite.vim"]
+	path = unite.vim
+	url = ./unite.vim
+[submodule "guihua.lua"]
+	path = guihua.lua
+	url = ./guihua.lua
+[submodule "incsearch.vim"]
+	path = incsearch.vim
+	url = ./incsearch.vim
+[submodule "vim-quickui"]
+	path = vim-quickui
+	url = ./vim-quickui
+[submodule "dbext.vim"]
+	path = dbext.vim
+	url = ./dbext.vim
+[submodule "vim-rbenv"]
+	path = vim-rbenv
+	url = ./vim-rbenv
+[submodule "ruby-matchit"]
+	path = ruby-matchit
+	url = ./ruby-matchit
+[submodule "vim-cucumber"]
+	path = vim-cucumber
+	url = ./vim-cucumber
+[submodule "tabnine-vim"]
+	path = tabnine-vim
+	url = ./tabnine-vim
+[submodule "vim-projectionist"]
+	path = vim-projectionist
+	url = ./vim-projectionist
+[submodule "nvim-treesitter"]
+	path = nvim-treesitter
+	url = ./nvim-treesitter
+[submodule "vim-breakpts"]
+	path = vim-breakpts
+	url = ./vim-breakpts
+[submodule "gruvbox"]
+	path = gruvbox
+	url = ./gruvbox
+[submodule "vim-codequery"]
+	path = vim-codequery
+	url = ./vim-codequery
+[submodule "command-t"]
+	path = command-t
+	url = ./command-t
+[submodule "deoplete-tabnine"]
+	path = deoplete-tabnine
+	url = ./deoplete-tabnine
+[submodule "vim-rake"]
+	path = vim-rake
+	url = ./vim-rake
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = ./nerdcommenter
+[submodule "vim-coffee-script"]
+	path = vim-coffee-script
+	url = ./vim-coffee-script
+[submodule "vim-which-key"]
+	path = vim-which-key
+	url = ./vim-which-key
+[submodule "mac_notify-vim"]
+	path = mac_notify-vim
+	url = ./mac_notify-vim
+[submodule "vim-pythonx"]
+	path = vim-pythonx
+	url = ./vim-pythonx
+[submodule "fzf"]
+	path = fzf
+	url = ./fzf
+[submodule "nerdtree"]
+	path = nerdtree
+	url = ./nerdtree
+[submodule "edit-slack.vim"]
+	path = edit-slack.vim
+	url = ./edit-slack.vim
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = ./ctrlp.vim
+[submodule "vim-easymotion"]
+	path = vim-easymotion
+	url = ./vim-easymotion
+[submodule "vis.vim"]
+	path = vis.vim
+	url = ./vis.vim
