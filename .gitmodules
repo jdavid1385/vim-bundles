@@ -1,246 +1,246 @@
 [submodule "coc.nvim"]
 	path = coc.nvim
-	url = ./coc.nvim
+	url = git@github.com:jdavid1385/coc.nvim.git
 [submodule "vim-ripgrep"]
 	path = vim-ripgrep
-	url = ./vim-ripgrep
+	url = https://github.com/jremmen/vim-ripgrep.git
 [submodule "omnisharp-vim"]
 	path = omnisharp-vim
-	url = ./omnisharp-vim
+	url = https://github.com/OmniSharp/omnisharp-vim.git
 [submodule "vim-yaml-folds"]
 	path = vim-yaml-folds
-	url = ./vim-yaml-folds
+	url = https://github.com/pedrohdz/vim-yaml-folds.git
 [submodule "vim-ctrlp-tjump"]
 	path = vim-ctrlp-tjump
-	url = ./vim-ctrlp-tjump
+	url = https://github.com/ivalkeen/vim-ctrlp-tjump.git
 [submodule "LanguageClient-neovim"]
 	path = LanguageClient-neovim
-	url = ./LanguageClient-neovim
+	url = https://github.com/autozimu/LanguageClient-neovim.git
 [submodule "nvim-code-action-menu"]
 	path = nvim-code-action-menu
-	url = ./nvim-code-action-menu
+	url = https://github.com/weilbith/nvim-code-action-menu.git
 [submodule "vim-floaterm"]
 	path = vim-floaterm
-	url = ./vim-floaterm
+	url = https://github.com/voldikss/vim-floaterm.git
 [submodule "nvim-treesitter-refactor"]
 	path = nvim-treesitter-refactor
-	url = ./nvim-treesitter-refactor
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git-refactor
 [submodule "vimux"]
 	path = vimux
-	url = ./vimux
+	url = https://github.com/benmills/vimux.git
 [submodule "YouCompleteMe"]
 	path = YouCompleteMe
-	url = ./YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
 [submodule "vim-qf-preview"]
 	path = vim-qf-preview
-	url = ./vim-qf-preview
+	url = https://github.com/bfrg/vim-qf-preview.git
 [submodule "vim-projectroot"]
 	path = vim-projectroot
-	url = ./vim-projectroot
+	url = https://github.com/dbakker/vim-projectroot.git
 [submodule "nerdtree-git-plugin"]
 	path = nerdtree-git-plugin
-	url = ./nerdtree-git-plugin
+	url = https://github.com/scrooloose/nerdtree.git-git-plugin
 [submodule "quickpeek.vim"]
 	path = quickpeek.vim
-	url = ./quickpeek.vim
+	url = https://github.com/AndrewRadev/quickpeek.vim.git
 [submodule "vim-airline-themes"]
 	path = vim-airline-themes
-	url = ./vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline.git-themes
 [submodule "elly.vim"]
 	path = elly.vim
-	url = ./elly.vim
+	url = https://github.com/ulwlu/elly.vim.git
 [submodule "vim-clap"]
 	path = vim-clap
-	url = ./vim-clap
+	url = https://github.com/liuchengxu/vim-clap.git
 [submodule "vim-bundler"]
 	path = vim-bundler
-	url = ./vim-bundler
+	url = https://github.com/tpope/vim-bundler.git
 [submodule "nerdtree-file-filter-plugin"]
 	path = nerdtree-file-filter-plugin
-	url = ./nerdtree-file-filter-plugin
+	url = https://github.com/scrooloose/nerdtree.git-file-filter-plugin
 [submodule "Vundle.vim"]
 	path = Vundle.vim
-	url = ./Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
 [submodule "navigator.lua"]
 	path = navigator.lua
-	url = ./navigator.lua
+	url = https://github.com/ray-x/navigator.lua.git
 [submodule "nvim-yarp"]
 	path = nvim-yarp
-	url = ./nvim-yarp
+	url = https://github.com/roxma/nvim-yarp.git
 [submodule "vim-surround"]
 	path = vim-surround
-	url = ./vim-surround
+	url = https://github.com/tpope/vim-surround.git
 [submodule "vim-codeclimate"]
 	path = vim-codeclimate
-	url = ./vim-codeclimate
+	url = https://github.com/wfleming/vim-codeclimate.git
 [submodule "vim-airline"]
 	path = vim-airline
-	url = ./vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
 [submodule "vim-emoji"]
 	path = vim-emoji
-	url = ./vim-emoji
+	url = https://github.com/junegunn/vim-emoji.git
 [submodule "vim-endwise"]
 	path = vim-endwise
-	url = ./vim-endwise
+	url = https://github.com/tpope/vim-endwise.git
 [submodule "vim-zoom"]
 	path = vim-zoom
-	url = ./vim-zoom
+	url = https://github.com/jdavid1385/vim-zoom.git
 [submodule "vim-bookmarks"]
 	path = vim-bookmarks
-	url = ./vim-bookmarks
+	url = https://github.com/MattesGroeger/vim-bookmarks.git
 [submodule "nvim-lspconfig"]
 	path = nvim-lspconfig
-	url = ./nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
 [submodule "tagbar"]
 	path = tagbar
-	url = ./tagbar
+	url = https://github.com/majutsushi/tagbar.git
 [submodule "vim-gitgutter"]
 	path = vim-gitgutter
-	url = ./vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
 [submodule "deoplete.nvim"]
 	path = deoplete.nvim
-	url = ./deoplete.nvim
+	url = https://github.com/Shougo/deoplete.nvim.git
 [submodule "vim-hug-neovim-rpc"]
 	path = vim-hug-neovim-rpc
-	url = ./vim-hug-neovim-rpc
+	url = https://github.com/roxma/vim-hug-neovim-rpc.git
 [submodule "genutils"]
 	path = genutils
-	url = ./genutils
+	url = https://github.com/vim-scripts/genutils.git
 [submodule "ale"]
 	path = ale
-	url = ./ale
+	url = https://github.com/dense-analysis/ale.git
 [submodule "fzf.vim"]
 	path = fzf.vim
-	url = ./fzf.vim
+	url = https://github.com/junegunn/fzf.git.vim
 [submodule "ferret"]
 	path = ferret
-	url = ./ferret
+	url = https://github.com/wincent/ferret.git
 [submodule "vim-rhubarb"]
 	path = vim-rhubarb
-	url = ./vim-rhubarb
+	url = https://github.com/tpope/vim-rhubarb.git
 [submodule "anyfold"]
 	path = anyfold
-	url = ./anyfold
+	url = https://github.com/pseewald/anyfold.git
 [submodule "vim-ctrlspace"]
 	path = vim-ctrlspace
-	url = ./vim-ctrlspace
+	url = https://github.com/vim-ctrlspace/vim-ctrlspace.git
 [submodule "vim-ruby"]
 	path = vim-ruby
-	url = ./vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
 [submodule "nvim-lightbulb"]
 	path = nvim-lightbulb
-	url = ./nvim-lightbulb
+	url = https://github.com/kosayoda/nvim-lightbulb.git
 [submodule "vim-gutentags"]
 	path = vim-gutentags
-	url = ./vim-gutentags
+	url = https://github.com/ludovicchabant/vim-gutentags.git
 [submodule "vim-misc"]
 	path = vim-misc
-	url = ./vim-misc
+	url = https://github.com/xolox/vim-misc.git
 [submodule "vim-side-search"]
 	path = vim-side-search
-	url = ./vim-side-search
+	url = https://github.com/ddrscott/vim-side-search.git
 [submodule "vim-easytags"]
 	path = vim-easytags
-	url = ./vim-easytags
+	url = https://github.com/xolox/vim-easytags.git
 [submodule "vimspector"]
 	path = vimspector
-	url = ./vimspector
+	url = https://github.com/puremourning/vimspector.git
 [submodule "codi.vim"]
 	path = codi.vim
-	url = ./codi.vim
+	url = https://github.com/metakirby5/codi.vim.git
 [submodule "gundo.vim"]
 	path = gundo.vim
-	url = ./gundo.vim
+	url = https://github.com/sjl/gundo.vim.git
 [submodule "coq_nvim"]
 	path = coq_nvim
-	url = ./coq_nvim
+	url = https://github.com/ms-jpq/coq_nvim.git
 [submodule "vim-fugitive"]
 	path = vim-fugitive
-	url = ./vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
 [submodule "vim-rails"]
 	path = vim-rails
-	url = ./vim-rails
+	url = https://github.com/tpope/vim-rails.git
 [submodule "unite.vim"]
 	path = unite.vim
-	url = ./unite.vim
+	url = https://github.com/Shougo/unite.vim.git
 [submodule "guihua.lua"]
 	path = guihua.lua
-	url = ./guihua.lua
+	url = https://github.com/ray-x/guihua.lua.git
 [submodule "incsearch.vim"]
 	path = incsearch.vim
-	url = ./incsearch.vim
+	url = https://github.com/haya14busa/incsearch.vim.git
 [submodule "vim-quickui"]
 	path = vim-quickui
-	url = ./vim-quickui
+	url = https://github.com/skywind3000/vim-quickui.git
 [submodule "dbext.vim"]
 	path = dbext.vim
-	url = ./dbext.vim
+	url = https://github.com/vim-scripts/dbext.vim.git
 [submodule "vim-rbenv"]
 	path = vim-rbenv
-	url = ./vim-rbenv
+	url = https://github.com/tpope/vim-rbenv.git
 [submodule "ruby-matchit"]
 	path = ruby-matchit
-	url = ./ruby-matchit
+	url = https://github.com/vim-scripts/ruby-matchit.git
 [submodule "vim-cucumber"]
 	path = vim-cucumber
-	url = ./vim-cucumber
+	url = https://github.com/tpope/vim-cucumber.git
 [submodule "tabnine-vim"]
 	path = tabnine-vim
-	url = ./tabnine-vim
+	url = https://github.com/zxqfl/tabnine-vim.git
 [submodule "vim-projectionist"]
 	path = vim-projectionist
-	url = ./vim-projectionist
+	url = https://github.com/tpope/vim-projectionist.git
 [submodule "nvim-treesitter"]
 	path = nvim-treesitter
-	url = ./nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
 [submodule "vim-breakpts"]
 	path = vim-breakpts
-	url = ./vim-breakpts
+	url = https://github.com/albfan/vim-breakpts.git
 [submodule "gruvbox"]
 	path = gruvbox
-	url = ./gruvbox
+	url = https://github.com/morhetz/gruvbox.git
 [submodule "vim-codequery"]
 	path = vim-codequery
-	url = ./vim-codequery
+	url = https://github.com/devjoe/vim-codequery.git
 [submodule "command-t"]
 	path = command-t
-	url = ./command-t
+	url = https://github.com/wincent/command-t.git
 [submodule "deoplete-tabnine"]
 	path = deoplete-tabnine
-	url = ./deoplete-tabnine
+	url = https://github.com/tbodt/deoplete-tabnine.git
 [submodule "vim-rake"]
 	path = vim-rake
-	url = ./vim-rake
+	url = https://github.com/tpope/vim-rake.git
 [submodule "nerdcommenter"]
 	path = nerdcommenter
-	url = ./nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
 [submodule "vim-coffee-script"]
 	path = vim-coffee-script
-	url = ./vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
 [submodule "vim-which-key"]
 	path = vim-which-key
-	url = ./vim-which-key
+	url = https://github.com/liuchengxu/vim-which-key.git
 [submodule "mac_notify-vim"]
 	path = mac_notify-vim
-	url = ./mac_notify-vim
+	url = https://github.com/modsound/mac_notify-vim.git
 [submodule "vim-pythonx"]
 	path = vim-pythonx
-	url = ./vim-pythonx
+	url = https://github.com/reconquest/vim-pythonx.git
 [submodule "fzf"]
 	path = fzf
-	url = ./fzf
+	url = https://github.com/junegunn/fzf.git
 [submodule "nerdtree"]
 	path = nerdtree
-	url = ./nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
 [submodule "edit-slack.vim"]
 	path = edit-slack.vim
-	url = ./edit-slack.vim
+	url = https://github.com/yaasita/edit-slack.vim.git
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
-	url = ./ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
 [submodule "vim-easymotion"]
 	path = vim-easymotion
-	url = ./vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion.git
 [submodule "vis.vim"]
 	path = vis.vim
-	url = ./vis.vim
+	url = git@github.com:jdavid1385/vis.vim.git
